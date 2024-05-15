@@ -1,0 +1,98 @@
+[
+    {
+        "image": "https://i.ibb.co/7KWKKWK/image1.jpg",
+        "estate_title": "Single-family Home",
+        "id": 1,
+        "segment_name": "Spacious Single-family homes",
+        "description": "Welcome to your dream home! This spacious single-family home offers the perfect blend of comfort and elegance. Step into the inviting ambiance of the well-appointed living room, ideal for family gatherings or cozy evenings by the fireplace. The fully-equipped kitchen boasts modern appliances and ample counter space, making meal preparation a breeze. Retreat to the expansive backyard, perfect for outdoor entertaining or simply enjoying the serene surroundings. Located in a friendly suburban neighborhood, this home provides easy access to schools, parks, and shopping centers. Whether you're starting a family or looking for a peaceful retreat, this home offers everything you need and more.",
+        "price": "$500,000",
+        "status": "sale",
+        "area": "2500 sq ft",
+        "location": "1234 Oak Street, District: Maplewood, Country: USA",
+        "facilities": [
+            "living room",
+            "kitchen",
+            "backyard"
+        ]
+    },
+    {
+        "image": "https://i.ibb.co/zPpG5gx/image2.jpg",
+        "estate_title": "Cozy Townhouse",
+        "id": 2,
+        "segment_name": "Townhouses",
+        "description": "Experience urban living at its finest in this charming townhouse nestled in a vibrant community. The cozy living room welcomes you with its warm ambiance, perfect for relaxing after a busy day. Whip up delicious meals in the modern kitchen, equipped with sleek appliances and plenty of storage space. Upstairs, you'll find comfortable bedrooms, each offering a peaceful sanctuary for rest and relaxation. Enjoy the convenience of your own private parking space, ensuring hassle-free commuting. With easy access to shops, restaurants, and entertainment venues, this townhouse offers the perfect blend of comfort and convenience for modern city living.",
+        "price": "$300,000",
+        "status": "sale",
+        "area": "1500 sq ft",
+        "location": "567 Elm Street, District: Evergreen, Country: USA",
+        "facilities": [
+            "living room",
+            "kitchen",
+            "parking space"
+        ]
+    },
+    {
+        "image": "https://i.ibb.co/Qp3Tj23/image3.jpg",
+        "estate_title": "Modern Apartment",
+        "id": 3,
+        "segment_name": "Apartments",
+        "description": " Live in luxury in this stunning modern apartment located in the heart of the city. Floor-to-ceiling windows flood the living room with natural light, creating a bright and inviting space to relax and entertain. The sleek kitchen features high-end appliances and designer finishes, making meal preparation a pleasure. Unwind in the resort-style swimming pool or break a sweat in the state-of-the-art gym. With panoramic views of the city skyline, this apartment offers a truly unforgettable living experience. Plus, with easy access to public transportation and nearby amenities, you'll enjoy all the perks of city living right at your doorstep.",
+        "price": "$2,000/month",
+        "status": "rent",
+        "area": "1000 sq ft",
+        "location": "789 Maple Avenue, District: Greenwood, Country: USA",
+        "facilities": [
+            "living room",
+            "swimming pool",
+            "gym"
+        ]
+    },
+    {
+        "image": "https://i.ibb.co/3zC5dHm/image4.jpg",
+        "estate_title": "Student Housing",
+        "id": 4,
+        "segment_name": "Student housing",
+        "description": "Welcome to your home away from home! This student housing complex offers a comfortable and supportive environment for academic success and personal growth. Each room is furnished with all the essentials, including a cozy bed, spacious study area, and shared kitchen facilities. Take advantage of the communal spaces, where you can socialize with fellow students or hit the books in peace. With convenient access to campus and nearby amenities, you'll have everything you need to thrive during your college years. Say goodbye to dorm life and hello to a new chapter of independent living in this welcoming student community.",
+        "price": "$800/month per room",
+        "status": "rent",
+        "area": "800 sq ft per room",
+        "location": "1011 Pine Street, District: Oakwood, Country: USA",
+        "facilities": [
+            "bedroom",
+            "study area",
+            "shared kitchen"
+        ]
+    },
+    {
+        "image": "https://i.ibb.co/gTkYQqw/image5.jpg",
+        "estate_title": "Senior Living Community",
+        "id": 5,
+        "segment_name": "Senior living communities",
+        "description": "Tranquil senior living community offering a range of activities and support services. Discover the joys of retirement living in this vibrant senior community designed for active adults. The spacious community center serves as the hub of social activity, offering a variety of clubs, classes, and events to keep you engaged and entertained. Stroll through the beautifully landscaped gardens, perfect for enjoying a leisurely walk or catching up with friends. Plus, with on-site medical assistance and support services, you can enjoy peace of mind knowing that help is always available when you need it. Say goodbye to the hassles of homeownership and hello to a carefree lifestyle in this welcoming senior community",
+        "price": "$3,500/month",
+        "status": "rent",
+        "area": "1200 sq ft",
+        "location": "1213 Cedar Avenue, District: Pinecrest, Country: USA",
+        "facilities": [
+            "community center",
+            "landscaped gardens",
+            "medical assistance"
+        ]
+    },
+    {
+        "image": "https://i.ibb.co/XDgr9Qj/image6.jpg",
+        "estate_title": "Beachfront Vacation Rental",
+        "id": 6,
+        "segment_name": "Vacation rentals",
+        "description": "Luxurious beachfront vacation rental with stunning ocean views and private access to the beach. Escape to paradise in this luxurious beachfront vacation rental nestled along the pristine coastline. Wake up to the sound of waves crashing on the shore and step out onto your private balcony to soak in breathtaking ocean views. The spacious living area is perfect for entertaining, while the fully-equipped kitchen allows you to whip up gourmet meals with ease. Spend your days lounging on the sun-drenched beach or exploring the local attractions. With amenities like beach access, a private balcony, and a fully-equipped kitchen, this vacation rental offers the perfect blend of luxury and convenience for your seaside getaway",
+        "price": "$300/night",
+        "status": "rent",
+        "area": "2000 sq ft",
+        "location": "1415 Beach Boulevard, District: Seaview, Country: USA",
+        "facilities": [
+            "beach access",
+            "balcony",
+            "fully equipped kitchen"
+        ]
+    }
+]
